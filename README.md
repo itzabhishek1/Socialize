@@ -1,2 +1,1 @@
 # Socialize
-Social Media App
